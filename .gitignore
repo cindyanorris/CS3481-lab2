@@ -1,0 +1,6 @@
+*/*.o
+*/*/*.o
+Animal/makeAnimals
+Number/makeNumber
+Sorts/bin/sortProg
+Sorts/source/sortProg
